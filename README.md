@@ -1,4 +1,4 @@
-# 90DaysOfDevOps
+# 90DaysOfDevOps   90 天 学会 devOps    点击 图片， 进入中文选项，进行学习
 
 <p align="center">
  <img src="logo.png?raw=true" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
