@@ -26,6 +26,8 @@ The project is not a sponsored operation by any vendors and everything is access
 
 ![GitHub Repo Stars](https://img.shields.io/github/stars/michaelcade/90daysofdevops?style=social?)
 
+点击这些图片，开始学习吧，跟随我， the 2022, 2023 and 2024 editions 
+
 The to images below will take you to the 2022, 2023 and 2024 editions of the learning journey. 
 
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -35,7 +37,7 @@ The to images below will take you to the 2022, 2023 and 2024 editions of the lea
       <img src="2022.png?raw=true" alt="2022" style="border: 2px solid #555; border-radius: 8px; width: 100%; max-width: 400px;" />
     </a>
     <br />
-    <em>Year 2022 - This is where we start, 110k words </em>
+    <em>Year 2022 - This is where we start, 110k words ---  点击 图片， 进入中文选项，进行学习   </em>
   </div>
 
   <div style="margin: 10px; text-align: center;">
@@ -43,7 +45,7 @@ The to images below will take you to the 2022, 2023 and 2024 editions of the lea
       <img src="2023.png?raw=true" alt="2023" style="border: 2px solid #555; border-radius: 8px; width: 100%; max-width: 400px;" />
     </a>
     <br />
-    <em>Year 2023 - Continues... Some help from my friends</em>
+    <em>Year 2023 - Continues... Some help from my friends  更多内容，更多朋友支持</em>
   </div>
 
   <div style="margin: 10px; text-align: center;">
@@ -51,7 +53,7 @@ The to images below will take you to the 2022, 2023 and 2024 editions of the lea
       <img src="2024.png?raw=true" alt="2024" style="border: 2px solid #555; border-radius: 8px; width: 100%; max-width: 400px;" />
     </a>
     <br />
-    <em>Year 2024 - Community Edition: 90 Sessions</em>
+    <em>Year 2024 - Community Edition: 90 Sessions   社区给了更多建议</em>
   </div>
 
 </div>
